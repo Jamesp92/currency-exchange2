@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Currency Exchange</title>
+</head>
+<body>
+  <div class="container">
+    <div class="form-group">
+    <label for="userDollar">Enter your amount to convert </label>
+    <input id="userDollar" type="number" >
+    <label for="currencySelect"> pick currency to convert to </label>
+    <select class="form-control" name="currencyInput" id="currencySelect">
+      <option value="BAM">BAM</option>
+      <option value="AZN">AZN</option>
+      <option value="LYD">LYD</option>
+      <option value="XDR">XDR</option>
+      <option value="ZAR">ZAR</option>
+    </select>  
+      <button class="btn btn-primary" id="button">convert</button>
+    </div>
+  </div>
+    <div id="answer"></div>
+    <div class="showErrors"></div>
+</body>
+</html>
