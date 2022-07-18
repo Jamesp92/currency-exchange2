@@ -1,7 +1,7 @@
 # currency converter
 
 #### Description 
-this is a simple application that uses an API that takes USD and converts it to most cuirrencies around the world
+this is a simple application that uses an API that takes USD and converts it to most currencies from around the world
 
 #### By PJ Perry
 
