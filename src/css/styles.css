@@ -3,13 +3,13 @@ body{
   margin-right: 20%;
   padding:5%;
   background-color: bisque;
-  }
+}
   
- .output{
+.output{
   color:rgb(0, 255, 72);
-  text-shadow: 2px 2px 10px black;
+  text-shadow: 2px 2px 1px black;
   font-size: larger;
 }
   button{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-  }
+}
